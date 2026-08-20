@@ -1,0 +1,38 @@
+{
+  "window_title_keywords": [
+    "跳一跳",
+    "微信",
+    "WeChat"
+  ],
+  "title_bar_height": 45,
+  "press_coefficient": 1.8,
+  "jump_axis_angles_deg": [30, 150],
+  "press_point": null,
+  "under_game_score_ratio": 0.28,
+  "scan_start_ratio": 0.15,
+  "bg_diff_threshold": 25,
+  "piece_color": {
+    "r": [
+      45,
+      110
+    ],
+    "g": [
+      40,
+      100
+    ],
+    "b": [
+      60,
+      150
+    ],
+    "b_minus_r_min": 10
+  },
+  "press_noise_ratio": 0.00,
+  "jump_wait_seconds": [
+    1.8,
+    2.6
+  ],
+  "fail_retry_limit": 8,
+  "max_score_stop": 900,
+  "debug_save_screenshots": true,
+  "debug_dir": "debug"
+}
